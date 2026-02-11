@@ -1,1 +1,2 @@
-# DS - HelloWorld - Primeiro Progama na Linguagem C Sharp 
+# DS - HelloWorld - Primeiro Progama na Linguagem C Sharp (C#)
+
